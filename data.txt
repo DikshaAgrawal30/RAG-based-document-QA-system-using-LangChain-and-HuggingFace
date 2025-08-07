@@ -1,0 +1,12 @@
+# This is the knowledge base your app will use to answer questions
+
+LangChain is an open-source framework for building applications that use large language models (LLMs). It enables chaining of different components like prompts, retrievers, and tools. LangChain is especially useful for Retrieval-Augmented Generation (RAG) applications.
+
+Retrieval-Augmented Generation (RAG) is a technique where a language model is provided with relevant context retrieved from external sources, such as documents or databases, before generating an answer.
+
+FAISS is a library for efficient similarity search and clustering of dense vectors. It's commonly used as a vector store in RAG applications.
+
+Hugging Face provides free and open models, datasets, and tools to build AI applications. It includes the Transformers library and supports models like BERT, GPT-2, and more.
+
+The `all-MiniLM-L6-v2` model from Hugging Face is a lightweight sentence embedding model ideal for search and retrieval tasks.
+
