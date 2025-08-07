@@ -1,0 +1,5 @@
+langchain==0.1.17
+unstructured==0.10.30
+sentence-transformers==2.2.2
+huggingface-hub==0.16.4
+faiss-cpu
